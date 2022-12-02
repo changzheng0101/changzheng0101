@@ -2,7 +2,7 @@
 
 🤙已经有![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)个人访问过我了✨
 
-北京科技大学在读本科生一枚~热爱计算机科学和IT互联网事业，希望可以成为最伟大的CV攻城狮，做我们村最靓的程序猿！
+北京科技大学在读研究一枚~热爱计算机科学和IT互联网事业，希望可以成为最伟大的CV攻城狮，做我们村最靓的程序猿！
 
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=changzheng0101&show_icons=true&theme=tokyonight)
 
